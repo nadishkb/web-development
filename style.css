@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: snow;
+    background-color: lightblue;
+}
+
+nav {
+    text-align: right;
+    color: violet;
+    background-color: lightblue;
+
+}
+
+body {
+    background-color: honeydew;
+}
